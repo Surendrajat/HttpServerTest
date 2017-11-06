@@ -1,0 +1,11 @@
+<resources>
+    <string name="port_number">8080</string>
+
+    <string name="text_server_not_running">Server not running!!!</string>
+    <string name="text_start">Start</string>
+    <string name="text_stop">Stop</string>
+    <string name="text_laghu_http_server">लघु HTTP Server</string>
+    <string name="app_name">Http Server Test</string>
+    <string name="text_port">Port</string>
+
+</resources>
